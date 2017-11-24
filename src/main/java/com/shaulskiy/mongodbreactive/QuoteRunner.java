@@ -1,4 +1,4 @@
-package com.shaulskiy.mongodbreactive.repository;
+package com.shaulskiy.mongodbreactive;
 
 import com.shaulskiy.mongodbreactive.clirnt.StockQuoteClient;
 import com.shaulskiy.mongodbreactive.domain.Quote;
